@@ -9,7 +9,7 @@ headers = {"x-fsign": "SW9D1eZo"}
 
 def main():
     feed = 'f_3_0_3_ru_1'
-    url = f'https://d.flashscore.ru.com/x/feed/{feed}'
+    url = f'https://d.soccerstand.com/ru/x/feed/{feed}'
     response = requests.get(url=url, headers=headers)
     data = response.text.split('¬')
 
@@ -17,9 +17,23 @@ def main():
 
     data_list = [{}]
 
-    for item in data[:200]:   # BX - минута четверти
-        print (item)
-        #key = item.split('÷')[0].\re_pars.py
+    for item in data[1:200]:   # BX - минута четверти
+        key, value = item.split('÷')
+        if '~ZA' == key:
+            league = value
+            continue
+        elif key == '~AA':
+            data_list.append({key: value})
+            data_list[-1].update({'LG': league})
+        elif key == 'AD':
+            date = datetime.fromtimestamp(int(value))
+            data_list[-1].update({'AD': date})
+        elif key == 'BX':
+            data_list[-1].update({'BX': value})
+        elif 
+            
+        
+        #key = item.split('÷')[0]
         #value = item.split('÷')[-1]
         #if '~' in key:
             #data_list.append({key: value})
