@@ -1,104 +1,72 @@
-~AA÷fTSdsGCU
-AD÷1666254600
-ADE÷1666254600
-AB÷2
-CR÷2
-AC÷25
-CX÷Мельбурн Юнайтед
+~AA÷Shkn6FVT  # id матча
+AD÷1667979300 # время начала матча
+ADE÷1667979300 # ?
+AB÷3
+CR÷3
+AC÷3
+CX÷Саутсайд (Ж) #? может предварительный фаворит
 RW÷0
-AI÷y
 AX÷1
-AO÷1666259916
-BX÷7
+AO÷1667985320 # время окончания?
+BX÷-1 # минута матча, если -1, то перерыв/не начался/завершен
+WL÷
 WQ÷
-WN÷CAI
-AF÷Кэрнс Тайпенс
-FK÷Кэрнс Тайпенс
-JB÷d46nZNX3
+WN÷MEL
+AF÷Мельбурн Бумерс (Ж)
+FK÷Мельбурн Бумерс (Ж)
+JB÷AFMQaItk
 GRB÷0
-AH÷70
+AH÷57
 BB÷15
-BD÷22
-BF÷26
-BH÷7
-WM÷МЕЛ
-AE÷Мельбурн Юнайтед
-FH÷Мельбурн Юнайтед
-JA÷SU1rz4Ic
+BD÷15
+BF÷19
+BH÷8
+OB÷phMJARiT-4l2Y7tSd.png
+WM÷САУ
+AE÷Саутсайд (Ж)
+FH÷Саутсайд (Ж)
+JA÷GhNM0bRr
+AS÷1
+AZ÷1
 GRA÷0
-AG÷76
-BA÷19
-BC÷24
-BE÷16
-BG÷17
-AL÷{"2":[{"BU":"\/bookmaker\/16\/?from=live-streaming&sport=3","IU":"\/res\/image\/data\/bookmakers\/17-16.png","BN":"bet365","BI":16,"BT":"GEO restrictions apply. Funded account required or to 
-have placed a bet in the last 24 hours. GamblingTherapy.org. 18+"},{"BU":"\/bookmaker\/454\/?from=live-streaming&sport=3","IU":"\/res\/image\/data\/bookmakers\/17-454.png","BN":"Winline","BI":454}],"HP":[{"HPI":1,"HPN":"YouTube","HPR":"1666254332|AL:d,AD:d,AU:d,AT:d,BY:d,BE:d,BG:d,CA:d,CN:d,HR:d,CY:d,DK:d,EE:d,FI:d,FR:d,DE:d,GR:d,HU:d,IS:d,IE:d,IT:d,LV:d,LT:d,MT:d,MC:d,NL:d,NZ:d,NO:d,PH:d,PL:d,PT:d,RO:d,SK:d,SI:d,ES:d,SE:d,CH:d,TR:d,UA:d,GB:d"}]}
+AG÷67
+BA÷21
+BC÷16
+BE÷14
+BG÷16
+OA÷AZxHTW7k-vPstWYZF.png
 AW÷1
-AN÷y
-MW÷454|16
 
-
-~AA÷zca6MrhT
-AD÷1666258200
-ADE÷1666258200
+~AA÷j5mHCIJo
+AD÷1667998800
+ADE÷1667998800
 AB÷2
 CR÷2
-AC÷23
-CX÷Актобе 2
+AC÷22
+CX÷Горизонт Минск (Ж)
 RW÷0
 AI÷y
 AX÷1
-AO÷1666259803
+AO÷1667998821
 BX÷9
+WL÷
 WQ÷
-WN÷ШЕВ
-AF÷ЧелГУ Костанай
-FK÷ЧелГУ Костанай
-JB÷lAaJYfrO
-GRB÷0
-AH÷37
-BB÷18
-BD÷19
-WM÷АКТ
-AE÷Актобе 2
-FH÷Актобе 2
-JA÷KzeFZzTH
+WM÷HOR
+AE÷Горизонт Минск (Ж)
+FH÷Горизонт Минск (Ж)
+JA÷6Vi9VtFn
 GRA÷0
-AG÷29
-BA÷18
-BC÷11
-AL÷{"HP":[{"HPI":1,"HPN":"YouTube","HPR":"1666258129|"}]}
-AN÷n
-
-
-AA÷zca6MrhT
-AD÷1666258200
-ADE÷1666258200
-AB÷2
-CR÷2
-AC÷38
-CX÷Актобе 2
-RW÷0
-AI÷y
-AX÷1
-AO÷1666261382
-BX÷-1
-WQ÷
-WN÷ШЕВ
-AF÷ЧелГУ Костанай
-FK÷ЧелГУ Костанай
-JB÷lAaJYfrO
+AG÷15
+BA÷15
+OA÷pliRIeU0-dCrtYhCd.png
+WN÷COR
+AF÷Динамо-Брест (Ж)
+FK÷Динамо-Брест (Ж)
+JB÷4GACU0Uh
 GRB÷0
-AH÷42
-BB÷18
-BD÷24
-WM÷АКТ
-AE÷Актобе 2
-FH÷Актобе 2
-JA÷KzeFZzTH
-GRA÷0
-AG÷29
-BA÷18
-BC÷11
-AL÷{"HP":[{"HPI":1,"HPN":"YouTube","HPR":"1666258129|"}]}
+AH÷6
+BB÷6
+OB÷UXjWYDT0-t8fkRMiQ.png
+AL÷{"2":[{"BU":"\/ru\/bookmaker\/417\/?from=live-streaming&sport=3","IU":"\/res\/image\/data\/bookers\/17-453.png","BN":"1xStavka.ru","BI":453}]}
 AN÷n
+MW÷453
